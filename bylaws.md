@@ -1,11 +1,11 @@
 # **Bylaws of the Society of Information Risk Analysts**
 
-### _Amended and Restated Bylaws_
+## _Amended and Restated Bylaws_
 
 Adopted by the Board of Directors on November 17, 2021
 
 - [**Bylaws of the Society of Information Risk Analysts**](#bylaws-of-the-society-of-information-risk-analysts)
-    - [_Amended and Restated Bylaws_](#amended-and-restated-bylaws)
+  - [_Amended and Restated Bylaws_](#amended-and-restated-bylaws)
   - [Bylaws of the Society](#bylaws-of-the-society)
   - [Offices](#offices)
   - [Charter](#charter)
@@ -38,14 +38,13 @@ Adopted by the Board of Directors on November 17, 2021
   - [Participation in Meeting by Conference Telephone](#participation-in-meeting-by-conference-telephone)
   - [Manner of Acting](#manner-of-acting)
   - [Action Without a Meeting](#action-without-a-meeting)
-  - [Vacancies](#vacancies-1)
   - [Employment](#employment)
   - [Compensation and Reimbursement](#compensation-and-reimbursement)
   - [Presumption of Assent](#presumption-of-assent)
 - [Members](#members)
   - [Membership Qualifications](#membership-qualifications)
   - [Termination of Membership](#termination-of-membership)
-  - [Resignation](#resignation-1)
+  - [Member Resignation](#member-resignation)
   - [Dues](#dues)
   - [Voting](#voting)
   - [Remote Communications for Member Meetings](#remote-communications-for-member-meetings)
@@ -62,11 +61,10 @@ Adopted by the Board of Directors on November 17, 2021
   - [Fiscal Year](#fiscal-year)
   - [Contracts](#contracts)
   - [Loans](#loans)
-  - [Checks, Drafts, etc.](#checks-drafts-etc)
+  - [Checks, Drafts, etc](#checks-drafts-etc)
   - [Deposits](#deposits)
 - [Amendment Of Bylaw](#amendment-of-bylaw)
   - [Amendments](#amendments)
-
 
 ## Bylaws of the Society
 
@@ -78,7 +76,7 @@ The principal office of the Society in the State of Minnesota shall be located i
 
 ## Charter
 
-### Vision 
+### Vision
 
 Our vision is to see the full maturation and mainstream acceptance of Information Risk Management (IRM) as a discipline and profession through:
 
@@ -173,6 +171,8 @@ Any officer, contractor, member, or director may be removed by a unanimous vote 
 
 A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by a quorum of the Board for the unexpired portion of the term.
 
+If the role of President becomes vacant, the Vice President will assume the role of President, vacating the Vice President role (to be filled). Any vacancy occurring in the Board may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board, unless otherwise provided by law. If there is an equal number of affirmative and negative votes, then the ultimate determination shall be made by the then-sitting President. A director elected to fill a vacancy shall be elected for the unexpired term of their predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board for a term of office continuing only until the next election of directors by the directors.
+
 ## Election of Directors
 
 The members will elect directors at a meeting designated by the Board as the Society's annual meeting. Vacancies in the Board will be filled by the Board as stated in Section 3(p) below rather than by a vote of the members.
@@ -205,19 +205,15 @@ The act of the majority of the directors present at a meeting at which a quorum 
 
 Any action that may be taken by the Board at a meeting may be taken without a meeting if consent in writing, setting forth the action so to be taken, shall be agreed to before such action by a majority of the directors. Such consent can be provided by Board-approved electronic means, as long as any decisions made through these means are reviewed and recorded in the following Board meeting.
 
- ## Vacancies
+## Employment
 
- If the role of President becomes vacant, the Vice President will assume the role of President, vacating the Vice President role (to be filled). Any vacancy occurring in the Board may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board, unless otherwise provided by law. If there is an equal number of affirmative and negative votes, then the ultimate determination shall be made by the then-sitting President. A director elected to fill a vacancy shall be elected for the unexpired term of their predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board for a term of office continuing only until the next election of directors by the directors.
+No paid employee can serve on the Board or in the role of officers while they are employed in a paid position by the Society.
 
- ## Employment
+## Compensation and Reimbursement
 
- No paid employee can serve on the Board or in the role of officers while they are employed in a paid position by the Society.
+Directors shall serve without compensation with the exception of reimbursed expenses. Reimbursement is allowed for expenses incurred in the furtherance of the Society's business with documentation and prior approval from board quorum.
 
- ## Compensation and Reimbursement
-
- Directors shall serve without compensation with the exception of reimbursed expenses. Reimbursement is allowed for expenses incurred in the furtherance of the Society's business with documentation and prior approval from board quorum.
-
- ## Presumption of Assent
+## Presumption of Assent
 
  A director of the Society who is present at a meeting of the Board at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless their dissent shall be entered in the minutes of the meeting or unless he shall file their written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Societyimmediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
 
@@ -231,7 +227,7 @@ Membership is granted to any individual that supports the mission and purposes o
 
 The Board, by an affirmative vote of a quorum of the Board, may suspend or expel a member, and may, by a majority vote of those present at any regularly constituted meeting, terminate, suspend or expel the membership of any member who becomes ineligible for membership.
 
-## Resignation
+## Member Resignation
 
 Any member may resign by filing a written resignation with the Secretary; however, such resignation shall not relieve the member so resigning of the obligation to pay any dues or other charges theretofore accrued and unpaid.
 
@@ -303,7 +299,7 @@ No loans shall be contracted on behalf of the Society and no evidences of indebt
 
 Such authority may be general or confined to specific instances.
 
-## Checks, Drafts, etc.
+## Checks, Drafts, etc
 
 All checks, drafts, or other orders for the payment of money, notes, or other pieces of evidence of indebtedness issued in the name of the Society, shall be signed by such officer or officers, agent or agents of the Society and in such manner as shall from time to time be determined by resolution of the Board.
 
@@ -327,7 +323,7 @@ Any member (individual or corporate) in good standing in accordance with the fol
 - If a request pertains to records from a closed board meeting, only a list of attendees and a broad description of the subject discussed will be disclosed.
 - Requests may be denied only if the records contain information that compromises the privacy, security, or safety of volunteers or members.
 
-# Amendment Of Bylaw 
+# Amendment Of Bylaw
 
 ## Amendments
 
