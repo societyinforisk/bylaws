@@ -1,4 +1,4 @@
-# SiRA Board Bylaws and Board Documents
+# SiRA Board Board Documents
 
 This repository collects documents and resources from the Board for SiRA.
 
